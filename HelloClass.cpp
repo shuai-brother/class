@@ -6,12 +6,12 @@ using namespace std;
 
 HelloClass::HelloClass()
 {
-	cout<<"I'm being created."<<endl;
+	cout<<"I am being created."<<endl;
 }
 
 HelloClass::~HelloClass()
 {
-	cout<<"I'm being destoryed."<<endl;
+	cout<<"I am being destoryed."<<endl;
 }
 
 void HelloClass::sayHello()
